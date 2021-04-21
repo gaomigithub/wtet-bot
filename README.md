@@ -1,2 +1,2 @@
 # wtet-bot
-Created with CodeSandbox
+discord bot: WhatToEatToday
