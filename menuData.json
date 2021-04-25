@@ -24,7 +24,13 @@
     { "id": 22, "name": "KFC" },
     { "id": 23, "name": "Burger King" },
     { "id": 24, "name": "Five Guys" },
-    { "id": 25, "name": "火锅" }
+    { "id": 25, "name": "火爆田鸡" },
+    { "id": 26, "name": "过桥米线" },
+    { "id": 27, "name": "轻食沙拉" },
+    { "id": 28, "name": "奶油蛋糕" },
+    { "id": 29, "name": "饭团" },
+    { "id": 30, "name": "粽子" },
+    { "id": 31, "name": "香辣蟹" }
   ],
-  "total": 25
+  "total": 31
 }
